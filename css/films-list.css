@@ -1,0 +1,23 @@
+#app {
+  min-height: 100vh;
+  background-color: #000000de;
+}
+
+.container {
+  height: 100%;
+}
+.card {
+  justify-content: center;
+  height: 300px;
+  font-size: 30px;
+  background-color: #feda4a;
+}
+
+.card-title {
+  font-size: 40px;
+  color: #000000de;
+}
+
+.card-text {
+  color: #000000de;
+}

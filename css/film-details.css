@@ -1,0 +1,54 @@
+#app {
+  background-color: #000000de;
+}
+
+.details-title {
+  display: block;
+  width: 100%;
+  margin-bottom: 30px;
+  font-size: 50px;
+  text-align: center;
+  color: #feda4a;
+}
+
+.episode-number {
+  display: block;
+}
+
+.back-btn {
+  position: fixed;
+  top: 40px;
+  left: 50px;
+  font-size: 20px;
+}
+
+.episode-info {
+  text-align: center;
+  font-size: 20px;
+  color: #feda4a;
+}
+
+.section-title {
+  margin-top: 30px;
+  font-size: 40px;
+  color: #feda4a;
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px 50px  ;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 0;
+  list-style-type: none;
+}
+
+.list-item {
+  font-size: 25px;
+  color: #feda4a;
+}
+
+
